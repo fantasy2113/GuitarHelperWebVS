@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" GroupingSetting="Access" MembersFormat="FullSignature">
+  <Class Name="GuitarService.CreateJSAppFile">
+    <Position X="10.25" Y="0.5" Width="4" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAACAQAAMA=</HashCode>
+      <FileName>CreateJSAppFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GuitarService.DataLogger" BaseTypeListCollapsed="true">
+    <Position X="14.5" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAABAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>DataLogger.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="GuitarService.GuitarData">
+    <Position X="21" Y="0.5" Width="3" />
+    <TypeIdentifier>
+      <HashCode>ACAACAAAAEQgAAAIAQQAABIIAUAAAABQGAAQFiAAAAA=</HashCode>
+      <FileName>GuitarData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GuitarService.Interval">
+    <Position X="0.5" Y="0.5" Width="7" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Interval.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GuitarService.NotesData">
+    <Position X="4.5" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NotesData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GuitarService.NotesListData">
+    <Position X="13.5" Y="4" Width="3" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>NotesListData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GuitarService.ScaleData">
+    <Position X="0.5" Y="4" Width="3.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAACAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ScaleData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GuitarService.TuningData">
+    <Position X="7.5" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAACAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>TuningData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GuitarService.ValueData">
+    <Position X="10.5" Y="4" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ValueData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GuitarService.ChordStepsData">
+    <Position X="17.25" Y="4" Width="3.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQBAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ChordStepsData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GuitarService.BaseDataClass">
+    <Position X="7.75" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgABAAAAAAAAAAAABAQAAAAAgBAAAAAAAAAAAAA=</HashCode>
+      <FileName>BaseDataClass.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="GuitarService.IDataLogger">
+    <Position X="17.25" Y="0.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IDataLogger.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
