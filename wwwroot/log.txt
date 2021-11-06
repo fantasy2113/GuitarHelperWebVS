@@ -1,0 +1,2238 @@
+﻿24.12.2017 11:30:01: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:02: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:03: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:04: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:04: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:04: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:04: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:04: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:04: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:04: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:04: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:04: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:04: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:04: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:04: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:04: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:04: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:04: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:04: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:04: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:04: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:04: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+24.12.2017 11:30:04: System.InvalidOperationException: Collection was modified; enumeration operation may not execute.
+   at System.ThrowHelper.ThrowInvalidOperationException_InvalidOperation_EnumFailedVersion()
+   at System.Collections.Generic.List`1.Enumerator.MoveNextRare()
+   at GuitarService.MatchingChordsData.GetChords(Interval interval, String tone, String majorOrMinor)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:39:59: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:04: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:05: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:05: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:05: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:05: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:05: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:05: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:05: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:05: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:05: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:05: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:05: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:05: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:05: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:05: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:05: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:05: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:05: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:05: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:05: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:05: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:05: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:05: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:05: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:05: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:05: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:05: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:05: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:05: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:05: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:05: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:06: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:06: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:06: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:06: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:06: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:06: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:06: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:06: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:06: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:06: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:06: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:06: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:06: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:06: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:06: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:06: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:06: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:06: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:06: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:06: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:06: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:06: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:06: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:06: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:06: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:06: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:06: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:06: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:40:06: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:23: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:23: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:23: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:23: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:23: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:23: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:23: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:23: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:23: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:23: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:23: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:23: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:23: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:23: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:23: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:23: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:23: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:24: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:24: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:24: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:24: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:24: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+28.12.2017 17:41:28: System.ArgumentOutOfRangeException: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+   at System.ThrowHelper.ThrowArgumentOutOfRange_IndexException()
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at GuitarService.ChordsData.SetChords(StringBuilder sb, List`1 list, String majorOrMinor, Boolean isScale, Boolean is7)
+
+
+02.01.2018 13:27:10: System.NullReferenceException: Object reference not set to an instance of an object.
+   at GuitarService.CreateJSAppFile..ctor()
+   at GuitarService.CreateJSAppFile.get_GetInstance()
+   at GuitarHelperWebVS.Program.Main(String[] args) in C:\Users\admin\Documents\GitHub\GuitarHelperWebVS\GuitarHelperWebVS\Program.cs:line 13
+
+
+02.01.2018 13:29:43: System.NullReferenceException: Object reference not set to an instance of an object.
+   at GuitarService.CreateJSAppFile..ctor()
+   at GuitarService.CreateJSAppFile.get_GetInstance()
+   at GuitarHelperWebVS.Program.Main(String[] args) in C:\Users\admin\Documents\GitHub\GuitarHelperWebVS\GuitarHelperWebVS\Program.cs:line 13
+
+
+26.01.2018 12:47:23: System.NullReferenceException: Object reference not set to an instance of an object.
+   at GuitarService.CreateJSAppFile..ctor()
+
+
+26.01.2018 12:47:23: System.NullReferenceException: Object reference not set to an instance of an object.
+   at GuitarService.CreateJSAppFile.GetDataForAppFile(String dataApp1, String dataApp2)
+
+
